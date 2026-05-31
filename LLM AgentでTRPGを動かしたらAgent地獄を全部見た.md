@@ -61,7 +61,7 @@ style: |
 ---
  
 
-# LLM AgentでTRPGを動かしたら、Agentの地獄を全部見た
+# LLM AgentでTRPGを動かしたら、Agentの地獄を（多分）全部見た
  
 GDGoC Osaka — LLM Agent Build with AI
  
